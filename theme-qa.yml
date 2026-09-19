@@ -1,0 +1,9 @@
+build:
+version: "3.0"
+spring:
+ config:
+  activate:
+   on-profile: "qa"
+author:
+ name: "rimeh ben salah [theme QA]"
+ email: "bensalahrimeh@gmail.com [theme QA]"
